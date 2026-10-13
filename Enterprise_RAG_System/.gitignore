@@ -1,0 +1,14 @@
+# Security
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Vector Database local storage & Chroma Cache
+chroma_db/
+.cache/
+
+# Virtual Environments
+venv/
+.venv/
